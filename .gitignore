@@ -1,0 +1,6 @@
+.vscode
+dataset.zip
+dataset/*
+.ipynb_checkpoints
+.mypy_cache
+.test
