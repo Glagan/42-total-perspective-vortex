@@ -4,3 +4,5 @@ dataset/*
 .ipynb_checkpoints
 .mypy_cache
 .test
+models/*
+**/__pycache__
